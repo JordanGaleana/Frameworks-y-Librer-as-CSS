@@ -1,0 +1,28 @@
+.container-body{
+	background: url(../img/fondococina.jpg) no-repeat center center;
+	background-size: cover;
+  background-attachment: fixed;
+}
+.contenedor{
+	background-color: rgb(161,161,161); opacity: 0.9;
+}
+.secciones{
+	background-color: pink;
+}
+.logo-img{
+  width: 30%;
+}
+
+img{
+  max-height: 100%;
+}
+
+.comentarios > li{
+	border-radius: 10px;
+	background-color: #eeeeee;
+}
+.comentarios > li > img{
+	height: 60px;
+}
+
+

@@ -1,0 +1,21 @@
+body{
+  background: url(../img/fondomountain.jpg) no-repeat center center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#logo{
+  width: 25%;
+}
+.card-image{
+  width: 100%;
+}
+.text-justify{
+  text-align: justify;
+}
+.post{
+  border-radius: 10px;
+}
+.user{
+	
+}
